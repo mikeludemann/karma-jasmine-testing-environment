@@ -1,0 +1,26 @@
+{
+  "name": "karma-jasmine-testing-environment",
+  "version": "1.0.0",
+  "description": "A karma jasmine testing environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start my.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/karma-jasmine-testing-environment.git"
+  },
+  "keywords": [],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/karma-jasmine-testing-environment/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/karma-jasmine-testing-environment#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.8.0",
+    "karma": "^6.3.4",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
